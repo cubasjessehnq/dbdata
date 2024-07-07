@@ -1,0 +1,112 @@
+git lfs track "toyota_avanza.bussidmod"
+git add dapc_wolf_korps_brimob.bussidmod
+git commit -m "add dapc_wolf_korps_brimob.bussidmod"
+git push origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Track files dengan Git LFS
+git lfs track "*.bussidvehicle"
+git lfs track "*.bussidmod"
+
+# Tambahkan file ke staging area
+git add suzuki_jimny.bussidmod
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Konfigurasi nama pengguna Git
+git config --global user.name "lozowskimarquisncr"
+git config --global user.name "cubasjessehnq"
+
+git remote add origin https://github.com/cubasjessehnq/dbdata.git
+ssh-keygen -t rsa -b 4096 -C "cubasjessehnq4@gmail.com"
+
+ssh-keygen -t rsa -b 4096 -C "cubasjessehnq4@gmail.com"
+git remote set-url origin git@github.com:cubasjessehnq/dbdata.git
+
+git config --global user.email "cubasjessehnq4@gmail.com"
+git config --global user.name "cubasjessehnq"
+
+
+# Lakukan commit dengan pesan
+git commit -m "Add suzuki_jimny.bussidmod to Git LFS"
+
+# Push perubahan ke remote repository
+git push origin master
+===========================
+
+
+git lfs track “.bussidvehicle”
+git lfs track “.bussidmod”
+
+
+git lfs track "barracuda_brimob.bussidmod"
+git add barracuda_brimob.bussidmod
+git commit -m "add barracuda_brimob.bussidmod"
+git push origin main
+
+
+git config --global lozowskimarquisncr “lozowskimarquisncr”
+
+git commit -m “add suzuki_jimny.bussidmod”
+
+git push origin master
+
+
+#Instal Git LFS
+git lfs install
+
+#Cek Instalasi Git LFS di Komputer Lokal:
+git lfs version
+
+#Cek File yang Dilacak oleh Git LFS:
+git lfs ls-files
