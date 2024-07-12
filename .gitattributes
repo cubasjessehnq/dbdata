@@ -1,7 +1,5 @@
 “.bussidvehicle” filter=lfs diff=lfs merge=lfs -text
 “.bussidmod” filter=lfs diff=lfs merge=lfs -text
-truk_elf_nkr_derek.bussidmod filter=lfs diff=lfs merge=lfs -text
-truk_canter_towing.bussidmod filter=lfs diff=lfs merge=lfs -text
 avanza.bussidmod filter=lfs diff=lfs merge=lfs -text
 jazz.bussidvehicle filter=lfs diff=lfs merge=lfs -text
 pajero_sport.bussidmod filter=lfs diff=lfs merge=lfs -text
@@ -30,3 +28,5 @@ wr-v_rs_2022.bussidmod filter=lfs diff=lfs merge=lfs -text
 voxy_strobo.bussidmod filter=lfs diff=lfs merge=lfs -text
 ranger_raptor.bussidmod filter=lfs diff=lfs merge=lfs -text
 innova_zenix_q.bussidmod filter=lfs diff=lfs merge=lfs -text
+canter_towing.bussidmod filter=lfs diff=lfs merge=lfs -text
+elf_nkr_derek.bussidmod filter=lfs diff=lfs merge=lfs -text
