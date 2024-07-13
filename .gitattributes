@@ -30,3 +30,4 @@ ranger_raptor.bussidmod filter=lfs diff=lfs merge=lfs -text
 innova_zenix_q.bussidmod filter=lfs diff=lfs merge=lfs -text
 canter_towing.bussidmod filter=lfs diff=lfs merge=lfs -text
 elf_nkr_derek.bussidmod filter=lfs diff=lfs merge=lfs -text
+*.bussidmod !text !filter !merge !diff
